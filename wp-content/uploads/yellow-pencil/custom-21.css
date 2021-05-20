@@ -1,0 +1,121 @@
+/*
+
+    The following CSS codes are created by the YellowPencil plugin.
+    https://yellowpencil.waspthemes.com/
+
+
+    T A B L E   O F   C O N T E N T S
+    ........................................................................
+
+    01. "Produto" Page
+    02. "Home" Page
+
+*/
+
+
+
+/*-----------------------------------------------*/
+/*  "Produto" Page                               */
+/*-----------------------------------------------*/
+body.page-id-112 .wp-block-uagb-restaurant-menu .uagb-rm-details span{
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-left:-50px;
+	margin-right:-50px;
+	margin-top:0px;
+	margin-bottom:0px;
+	font-size:25px;
+	line-height:1.4em;
+	letter-spacing:-0.7px;
+	font-weight:700;
+	-webkit-transform:translatex(-63px) translatey(10px);	-ms-transform:translatex(-63px) translatey(10px);	transform:translatex(-63px) translatey(10px);
+}
+
+body.page-id-112 .wp-block-uagb-restaurant-menu .uagb-rm-details h3.uagb-rm__title{
+	padding-left:0px;
+	padding-right:0px;
+	margin-left:-5px;
+	margin-top:30px;
+	margin-bottom:7px;
+	line-height:3em;
+}
+
+body.page-id-112 #ast-desktop-header .ast-primary-header .ast-builder-grid-row-no-center{
+	padding-left:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-top:-50px;
+	margin-bottom:-50px;
+}
+
+body.page-id-112 #colophon .site-below-footer-wrap{
+	padding-left:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	margin-left:0px;
+	margin-top:0px;
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+	margin-right:-50px;
+	margin-bottom:0px;
+	padding-right:0px;
+}
+
+
+
+/*-----------------------------------------------*/
+/*  "Home" Page                                  */
+/*-----------------------------------------------*/
+body.page-id-7 #ast-desktop-header .ast-primary-header .ast-builder-grid-row-no-center{
+	margin-top:-50px;
+	margin-bottom:-50px;
+}
+
+body.page-id-7 .footer-widget-area a span{
+	padding-left:0px;
+	padding-right:0px;
+	margin-top:-50px;
+	margin-bottom:-50px;
+	margin-right:9px !important;
+}
+
+body.page-id-7 #colophon .ast-builder-footer-grid-columns{
+	padding-bottom:0px;
+	padding-top:0px;
+	padding-right:0px;
+	padding-left:0px;
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+body.page-id-7 .footer-widget-area .widget ul{
+	padding-left:12px;
+	padding-top:0px;
+	margin-top:0px;
+	position:relative;
+	top:-45px;
+}
+
+body.page-id-7 .site-footer-below-section-3 .ast-footer-copyright p{
+	padding-bottom:0px;
+	padding-left:0px;
+	padding-right:0px;
+	margin-left:-29px;
+	padding-top:22px;
+	position:relative;
+	top:-25px;
+}
+
+body.page-id-7 #colophon .ast-builder-grid-row-3-equal{
+	margin-left:0px;
+	padding-bottom:0px;
+	padding-left:0px;
+	padding-top:21px;
+	padding-right:0px;
+	margin-top:-25px;
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+	position:relative;
+	bottom:-25px;
+}

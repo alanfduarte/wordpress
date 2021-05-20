@@ -1,0 +1,29 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Footer ==================== */
+
+/** Footer >> Colophon ast builder grid row tablet 2 equal _2 **/
+#colophon > .ast-builder-grid-row-tablet-2-equal {
+	margin-bottom: -1px !important;
+}
+
+/** Footer >> Menu item 115 menu link **/
+#menu-item-115 > .menu-link {
+	background-color: rgb(255, 255, 255) !important;
+}
+
+
+/*( Large Desktop )*/
+@media (min-width: 1200px) {
+
+	/*= Footer ==================== */
+
+	/** Footer >> Colophon ast builder grid row tablet 2 equal **/
+	#colophon > .ast-builder-grid-row-tablet-2-equal {
+	
+}
+
+
+}
+
